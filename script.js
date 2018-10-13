@@ -19,6 +19,9 @@ senMsg(data);
 function selectGroup(item)
 {
     if(item=="imsopnio")
+    {
+        
+    }
 
 }
 
