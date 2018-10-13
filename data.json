@@ -40,6 +40,16 @@ data = [
 			"obecidad"
 		]
 	},
+	{
+		"first_name":"camila",
+		"last_name":"Perez",
+		"age":"28",
+		"phone":"573003096626",
+		"age_range":"adulto",
+		"condition":[
+			"gastritis"
+		]
+	},
 
 
 ]	
