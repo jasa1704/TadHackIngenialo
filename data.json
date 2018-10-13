@@ -1,0 +1,45 @@
+datos = [
+	{
+		" first_name " : " carlos " ,
+		" Apellidos " : " Caicedo " ,
+		" edad " : " 70 " ,
+		" teléfono " : " 573132115024 " ,
+		" age_range " : " tercera edad " ,
+		" condición " : [
+			" actividad fisica " ,
+			" diabetes "
+		]
+	}
+	{
+		" first_name " : " cristiano " ,
+		" last_name " : " Burbano " ,
+		" edad " : " 25 " ,
+		" teléfono " : " 573132115024 " ,
+		" age_range " : " adulto " ,
+		" condición " : [
+			" imsopnio " ,
+		]
+	}
+	{
+		" first_name " : " fancisco " ,
+		" Apellidos " : " Bohórquez " ,
+		" edad " : " 24 " ,
+		" teléfono " : " 573003096626 " ,
+		" age_range " : " adulto " ,
+		" condición " : [
+			" gastritis "
+		]
+	}
+	{
+		" first_name " : " Jhonatan " ,
+		" last_name " : " Sosapanta " ,
+		" edad " : " 25 " ,
+		" teléfono " : " 573146323094 " ,
+		" age_range " : " adulto " ,
+		" condición " : [
+			" Obecidad "
+		]
+	}
+
+
+]	
