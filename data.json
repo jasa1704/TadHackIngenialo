@@ -1,0 +1,46 @@
+data = [
+	{
+		"first_name":"Carlos",
+		"last_name":"Caicedo",
+		"age":"70",
+		"phone":"573132115024",
+		"age_range":"tercera edad",
+		"condition":[
+			"actividad fisica",
+			"diabetes"
+		]
+	},
+	{
+		"first_name":"Christian",
+		"last_name":"Burbano",
+		"age":"25",
+		"phone":"573132115024",
+		"age_range":"adulto",
+		"condition":[
+			"imsopnio",
+		]
+	},
+	{
+		"first_name":"Fancisco",
+		"last_name":"Bohorquez",
+		"age":"24",
+		"phone":"573003096626",
+		"age_range":"adulto",
+		"condition":[
+			"gastritis"
+		]
+	},
+	{
+		"first_name":"Jhonatan",
+		"last_name":"Sosapanta",
+		"age":"25",
+		"phone":"573146323094",
+		"age_range":"adulto",
+		"condition":[
+			"obecidad"
+		]
+	},
+
+
+]	
+		
