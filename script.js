@@ -5,7 +5,7 @@ function estilosV(estilosv)
     var cont = document.getElementById("contenedor");
     var series = "";
 
-    data.forEach(item => {
+    estilosv.forEach(item => {
             series += "<div class='card ml-5 mb-5 mt-3'>" + "<div class='card-header text-center'>" + item.estilo_saludable + "</div>" + 
             "<div class='card-body'>" + "<img src='" + item.imagen + "' alt='imagen' width='270' height='200'>" + "</div>" + "</div>"
             cont.innerHTML = series;
