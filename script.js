@@ -1,6 +1,6 @@
-estilosV(data)
+estilosV(estilosv)
 
-function estilosV(data)
+function estilosV(estilosv)
 {
     var cont = document.getElementById("contenedor");
     var series = "";

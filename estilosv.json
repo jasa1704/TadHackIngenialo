@@ -1,4 +1,4 @@
-data = [
+estilosv = [
 	{
 		"estilo_saludable" : " Actividad física ", 
 		"imagen" : "./img/estilosV/btn-actividad-fisica.png"
