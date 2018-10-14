@@ -1,3 +1,5 @@
+console.log(data);
+
 // function getP(url, callback){
 //     var httpX = new XMLHttpRequest();
 //         httpX.onload = function(){
