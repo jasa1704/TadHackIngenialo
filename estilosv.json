@@ -16,7 +16,7 @@ estilosv = [
 		"imagen" : "./img/estilosV/btn-peso-saludable.png"
 	},
 	{
-		"estilo_saludable" : " Lavado de manos ",
+		"estilo_saludable" : " Higiene ",
 		"imagen" : "./img/estilosV/btn-lavado-manos.png"
 	},
 	{
