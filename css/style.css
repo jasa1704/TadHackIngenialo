@@ -26,3 +26,6 @@
 @media (max-width: 1199.98px) {
   .sidebar-fixed {
     display: none; } }
+.margen{
+  padding: 60px 100px 60px 100px
+}

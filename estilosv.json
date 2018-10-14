@@ -1,26 +1,32 @@
 estilosv = [
 	{
 		"estilo_saludable" : " Actividad física ", 
-		"imagen" : "./img/estilosV/btn-actividad-fisica.png"
+		"imagen" : "./img/estilosV/btn-actividad-fisica.png",
+		"enlace" : "actividad_fisica.html"
 	},
 	{
 		"estilo_saludable" : " Nutrición y alimentación saludable ",
-		"imagen" : "./img/estilosV/btn-salud-nutricional.png" 
+		"imagen" : "./img/estilosV/btn-salud-nutricional.png",
+		"enlace" : "nutricionyalimentacion.html" 
 	},
 	{
 		"estilo_saludable" : " Prevención consumo de tabaco ",
-		"imagen" : "./img/estilosV/btn-prevencion-tabaco.png"
+		"imagen" : "./img/estilosV/btn-prevencion-tabaco.png",
+		"enlace" : "prevenciontabaco.html"
 	},
 	{
 		"estilo_saludable" : " Peso saludable ",
-		"imagen" : "./img/estilosV/btn-peso-saludable.png"
+		"imagen" : "./img/estilosV/btn-peso-saludable.png",
+		"enlace" : "pesosaludable.html"
 	},
 	{
 		"estilo_saludable" : " Higiene ",
-		"imagen" : "./img/estilosV/btn-lavado-manos.png"
+		"imagen" : "./img/estilosV/btn-lavado-manos.png",
+		"enlace" : "lavadomanos.html"
 	},
 	{
 		"estilo_saludable" : " Salud bucal, visual y auditiva ",
-		"imagen" : "./img/estilosV/btn-salud-bucal.png"
+		"imagen" : "./img/estilosV/btn-salud-bucal.png",
+		"enlace" : "saludbucal.html"
 	}
 ]	
