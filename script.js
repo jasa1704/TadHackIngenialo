@@ -1,4 +1,22 @@
+var data;
 
+loadJSON()
+
+function loadJSON() {   
+
+    var xobj = new XMLHttpRequest();
+    
+    xobj.overrideMimeType("application/json");
+    xobj.open('GET', 'data.json', true); // Replace 'my_data' with the path to your file
+    xobj.onreadystatechange = function () {
+          if (xobj.readyState == 4 && xobj.status == "200") {
+            data = JSON.parse(xobj.responseText);
+            //selectGroup("gastritis",data)
+            selecAge("25",data)
+          }
+    };
+    xobj.send(null);  
+ }
 
 function getP(url, callback){
     var httpX = new XMLHttpRequest();
@@ -14,9 +32,6 @@ function getP(url, callback){
     httpX.send();
 }
 
-selectGroup("gastritis",data)
-selecAge("25",data)
-
 function selecAge(age,users)
 {
     users.forEach(user => {
@@ -26,7 +41,6 @@ function selecAge(age,users)
             senMsg(user)
         }   
     });
-    
 }
 
 function selectGroup(item, users)
@@ -51,6 +65,7 @@ function senMsg(user)
             
         });
         console.log(msg)
+        console.log(user.phone)
         /* getP(`https://api2.apidaze.io/95abb133/sms/send?api_secret=81aa44335724bf88970e103ba9a4ff7c&number=${user.phone}&subject=TadHack&body=${msg}`,function(data){
         respuesta.push(data.results);
         }); */

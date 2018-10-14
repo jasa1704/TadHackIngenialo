@@ -1,4 +1,4 @@
-data = [
+[
 	{
 		"first_name":"Carlos",
 		"last_name":"Caicedo",
@@ -17,7 +17,7 @@ data = [
 		"phone":"573132115024",
 		"age_range":"adulto",
 		"condition":[
-			"imsopnio",
+			"imsopnio"
 		]
 	},
 	{
@@ -50,6 +50,36 @@ data = [
 			"gastritis"
 		]
 	},
+	{
+		"first_name":"Nicolas",
+		"last_name":"Cosme",
+		"age":"20",
+		"phone":"573127341909",
+		"age_range":"adulto",
+		"condition":[
+			"Higiene"
+		]
+	},
+	{
+		"first_name":"David",
+		"last_name":"Sotelo",
+		"age":"30",
+		"phone":"573016230180",
+		"age_range":"adulto",
+		"condition":[
+			"obecidad"
+		]
+	},
+	{
+		"first_name":"Jeison",
+		"last_name":"Sotelo",
+		"age":"30",
+		"phone":"573016230180",
+		"age_range":"adulto",
+		"condition":[
+			"Higiene"
+		]
+	}
 
 
 ]	
