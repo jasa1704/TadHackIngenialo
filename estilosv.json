@@ -1,0 +1,26 @@
+estilosv = [
+	{
+		"estilo_saludable" : " Actividad física ", 
+		"imagen" : "./img/estilosV/btn-actividad-fisica.png"
+	},
+	{
+		"estilo_saludable" : " Nutrición y alimentación saludable ",
+		"imagen" : "./img/estilosV/btn-salud-nutricional.png" 
+	},
+	{
+		"estilo_saludable" : " Prevención consumo de tabaco ",
+		"imagen" : "./img/estilosV/btn-prevencion-tabaco.png"
+	},
+	{
+		"estilo_saludable" : " Peso saludable ",
+		"imagen" : "./img/estilosV/btn-peso-saludable.png"
+	},
+	{
+		"estilo_saludable" : " Higiene ",
+		"imagen" : "./img/estilosV/btn-lavado-manos.png"
+	},
+	{
+		"estilo_saludable" : " Salud bucal, visual y auditiva ",
+		"imagen" : "./img/estilosV/btn-salud-bucal.png"
+	}
+]	
